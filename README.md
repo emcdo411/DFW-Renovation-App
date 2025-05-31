@@ -1,5 +1,3 @@
-# DFW Renovation Dashboard
-
 ![DFW Renovation Dashboard](https://via.placeholder.com/1200x400.png?text=DFW+Renovation+Dashboard) <!-- Replace with actual screenshot -->
 
 Empower your contracting business with the **DFW Renovation Dashboard**, a dynamic R Shiny app designed for contractors in the Dallas–Fort Worth area. Leveraging real data—$15.4B in renovation spending, 4,920 HMDA loans, and 20,690 permits—this tool delivers interactive visualizations, market insights, and practical tools to help you target high-growth opportunities, estimate permit costs, and connect with local resources. Built for Guadalupe’s construction business, this dashboard transforms data into actionable strategies to dominate the DFW market.
